@@ -1,0 +1,6 @@
+[submodule "nodemcu-firmware-development"]
+	path = nodemcu-firmware-development
+	url = https://github.com/vberkaltun/nodemcu-firmware-development
+[submodule "nodemcu-firmware-documentation"]
+	path = nodemcu-firmware-documentation
+	url = https://github.com/vberkaltun/nodemcu-firmware-documentation
